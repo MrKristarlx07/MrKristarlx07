@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrKristarlx07
-- 👀 I’m interested in R & C++
+- 👀 I’m interested in R, Python & C++
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on R & Python projects :D
 - 📫 How to reach me Twitter: @marbassz
 
 <!---
